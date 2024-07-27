@@ -13,9 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true], //𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕
-["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true]]
+["5217223931652", '𝐾𝑋𝐿𝑌 𝐹𝐸𝑅', true], //𝐾𝑋𝐿𝑌 𝐹𝐸𝑅
+["5217223931652", '𝐾𝑋𝐿𝑌 𝐹𝐸𝑅', true],
+["5217223931652", '𝐾𝑋𝐿𝑌 𝐹𝐸𝑅', true]]
 
 global.mods = []
 global.prems = []
@@ -112,8 +112,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', 1], 
-["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', 1]]
+["5217223931652", '𝐾𝑋𝐿𝑌 𝐹𝐸𝑅', 1], 
+["5217223931652", '𝐾𝑋𝐿𝑌 𝐹𝐸𝑅', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -121,8 +121,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
-global.author = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
+global.packname = "𝐾𝑋𝐿𝑌 𝐹𝐸𝑅"
+global.author = "𝐾𝑋𝐿𝑌 𝐹𝐸𝑅"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -130,35 +130,35 @@ global.author = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1"
 global.vsJB = "1"
-global.gt = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
+global.gt = "𝐾𝑋𝐿𝑌 𝐹𝐸𝑅"
 
-global.yt = "https://www.instagram.com/shadow.vz/"
-global.yt2 = "https://www.instagram.com/shadow.vz/"
-global.ig = "https://www.instagram.com/shadow.vz/"
-global.md = "https://www.instagram.com/shadow.vz/"
-global.fb = "https://www.instagram.com/shadow.vz/"
-global.tk = "https://www.instagram.com/shadow.vz/"
-global.ths = "https://www.instagram.com/shadow.vz/"
-global.paypal = 'https://www.paypal.com/xjeff.store'
-global.asistencia = 'https://wa.me/5215541081250' //Contacto
-global.bot = 'https://wa.me/5215541081250' //𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
+global.yt = "https://www.instagram.com/fer_shp11"
+global.yt2 = "https://www.instagram.com/fer_shp11"
+global.ig = "https://www.instagram.com/fer_shp11"
+global.md = "https://www.instagram.com/fer_shp11"
+global.fb = "https://www.instagram.com/fer_shp11"
+global.tk = "https://www.instagram.com/fer_shp11"
+global.ths = "https://www.instagram.com/fer_shp11"
+global.paypal = 'https://www.paypal.me/fershp11'
+global.asistencia = 'https://wa.me/5217223931652' //Contacto
+global.bot = 'https://wa.me/5217223931652' //𝐾𝑋𝐿𝑌 𝐹𝐸𝑅 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
 
-global.nna = 'https://www.instagram.com/shadow.vz/' // Cuentas
-global.nn2 = 'https://www.instagram.com/shadow.vz/' // Grupo tg GataBot
-global.nna2 = 'https://www.instagram.com/shadow.vz/' // Help
-global.nn = 'https://www.instagram.com/shadow.vz/' // Grupo 1
-global.nnn = 'https://www.instagram.com/shadow.vz/' // Grupo 2
-global.nnnt = 'https://www.instagram.com/shadow.vz/' // Grupo 3
-global.nnntt = 'https://www.instagram.com/shadow.vz/' // Grupo 4
-global.nnnttt = 'https://www.instagram.com/shadow.vz/' // Grupo 5
-global.nnnttt1 = 'https://www.instagram.com/shadow.vz/' // Grupo 6 COL
-global.nnnttt2 = 'https://www.instagram.com/shadow.vz/' // Grupo 7 COL
-global.nnnttt3 = 'https://www.instagram.com/shadow.vz/' // Grupo 8 COL
-global.nnnttt4 = 'https://www.instagram.com/shadow.vz/' // Grupo 9 COL
-global.nnnttt5 = 'https://www.instagram.com/shadow.vz/' // MULTI - BOTS
-global.nnnttt6 = 'https://www.instagram.com/shadow.vz/' // A.T.M.M
-global.channel1 = 'https://www.instagram.com/shadow.vz/'
-global.channel2 = 'https://www.instagram.com/shadow.vz/'
+global.nna = 'https://www.instagram.com/fer_shp11' // Cuentas
+global.nn2 = 'https://www.instagram.com/fer_shp11' // Grupo tg GataBot
+global.nna2 = 'https://www.instagram.com/fer_shp11' // Help
+global.nn = 'https://www.instagram.com/fer_shp11' // Grupo 1
+global.nnn = 'https://www.instagram.com/fer_shp11' // Grupo 2
+global.nnnt = 'https://www.instagram.com/fer_shp11' // Grupo 3
+global.nnntt = 'https://www.instagram.com/fer_shp11' // Grupo 4
+global.nnnttt = 'https://www.instagram.com/fer_shp11' // Grupo 5
+global.nnnttt1 = 'https://www.instagram.com/fer_shp11' // Grupo 6 COL
+global.nnnttt2 = 'https://www.instagram.com/fer_shp11' // Grupo 7 COL
+global.nnnttt3 = 'https://www.instagram.com/fer_shp11' // Grupo 8 COL
+global.nnnttt4 = 'https://www.instagram.com/fer_shp11' // Grupo 9 COL
+global.nnnttt5 = 'https://www.instagram.com/fer_shp11' // MULTI - BOTS
+global.nnnttt6 = 'https://www.instagram.com/fer_shp11' // A.T.M.M
+global.channel1 = 'https://www.instagram.com/fer_shp11'
+global.channel2 = 'https://www.instagram.com/fer_shp11'
 global.channel3 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -184,14 +184,14 @@ global.eg = ''
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
-global.igfg = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
+global.wm = "𝐾𝑋𝐿𝑌 𝐹𝐸𝑅"
+global.igfg = "𝐾𝑋𝐿𝑌 𝐹𝐸𝑅"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
 global.waittttt = "*✅ _Completado | Filled..._ ▬▬▬▬▬▬▬*"
-global.nomorown = "5215541081250"
+global.nomorown = "5217223931652"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
